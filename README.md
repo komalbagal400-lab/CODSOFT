@@ -6,6 +6,8 @@
 **DescriptiN**
 This is a simple command-line calculator application developed using Python. The calculator allows users to perform basic arithmetic operations such as addition, subtraction, multiplication, and division. Users enter two numbers and select an operation from the menu, and the program displays the result.
 
+---
+
 **Features**
 
 - Addition of two numbers
